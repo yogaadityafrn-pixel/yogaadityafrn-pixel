@@ -4,17 +4,13 @@
 
 ### Hi there, I'm Yoga Aditya Fernanda! 👋
 
-I'm an Undergraduate Student of **System and Information Technology** at **Universitas 17 Agustus 1945 Surabaya**. I love building web applications and am currently exploring the world of **Cloud Computing & Data Science**.
+I'm an Undergraduate Student of **System and Information Technology** at **Universitas 17 Agustus 1945 Surabaya**.
 
 ---
 
 ### About Me
 
-- 🔭 I’m currently working on **[VolunSeek Platform](https://github.com/yogaadityafrn-pixel/Volunseek)**
-- 🌱 I’m currently learning **Flask, Machine Learning, and Cloud Administration**
-- 💼 Former Intern at **PT Radnext Digital Indonesia**
-- ⚡ Fun fact: I turn coffee into code ☕
-
+Undergraduate student in Information Systems and Technology at Universitas 17 Agustus 1945 Surabaya. I am dedicated to bridging the gap between conceptual ideas and technical reality through a structured approach. Possessing a keen eye for detail and strong analytical skills.
 ---
 
 ### Tech Stack
