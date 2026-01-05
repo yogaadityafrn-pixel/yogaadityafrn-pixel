@@ -38,13 +38,15 @@ I'm an Undergraduate Student of **System and Information Technology** at **Unive
 
 ---
 
-### GitHub Stats
+### Achievements & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogaadityafrn-pixel&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaadityafrn-pixel&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=yogaadityafrn-pixel&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  
+  <br/><br/>
 
+  <img src="https://github-readme-streak-stats.demolab.com/?user=yogaadityafrn-pixel&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 ---
 
 ### Connect with Me
