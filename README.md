@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </div>
 
-### Hi there, I'm Yoga Aditya! 👋
+### Hi there, I'm Yoga Aditya Fernanda! 👋
 
 I'm an Undergraduate Student of **System and Information Technology** at **Universitas 17 Agustus 1945 Surabaya**. I love building web applications and am currently exploring the world of **Cloud Computing & Data Science**.
 
