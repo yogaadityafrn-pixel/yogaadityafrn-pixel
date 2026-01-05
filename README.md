@@ -38,17 +38,6 @@ I'm an Undergraduate Student of **System and Information Technology** at **Unive
 
 ---
 
-### Achievements & Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogaadityafrn-pixel&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.demolab.com/?user=yogaadityafrn-pixel&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
----
-
 ### Connect with Me
 
 <div align="left">
