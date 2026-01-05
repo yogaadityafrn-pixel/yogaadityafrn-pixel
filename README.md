@@ -8,7 +8,7 @@ I'm an Undergraduate Student of **System and Information Technology** at **Unive
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🔭 I’m currently working on **[VolunSeek Platform](https://github.com/yogaadityafrn-pixel/Volunseek)**
 - 🌱 I’m currently learning **Flask, Machine Learning, and Cloud Administration**
@@ -17,7 +17,7 @@ I'm an Undergraduate Student of **System and Information Technology** at **Unive
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <div align="left"> 
@@ -38,7 +38,7 @@ I'm an Undergraduate Student of **System and Information Technology** at **Unive
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogaadityafrn-pixel&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
@@ -47,7 +47,7 @@ I'm an Undergraduate Student of **System and Information Technology** at **Unive
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="left">
   <a href="https://linkedin.com/in/username-linkedin" target="_blank">
